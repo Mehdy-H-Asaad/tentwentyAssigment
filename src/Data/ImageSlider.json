@@ -1,0 +1,23 @@
+
+[
+    {   "id" : 1,
+        "imgUrl" :"/src/Assets/imgs/sliderOnepng.png",
+        "name" : "Client 1",
+        "location" : "Dubai, United Arab Emirates" 
+    },
+    {   "id" : 2,
+        "imgUrl" : "/src/Assets/imgs/sliderTwo.png",
+        "name" : "Client 2",
+        "location" : "Paris, France" 
+    },
+    {   "id" : 3,
+        "imgUrl" :"/src/Assets/imgs/SliderThree.png",
+        "name" : "Client 3",
+        "location" : "New York, United States" 
+    },
+    {   "id" : 4,
+        "imgUrl" :"/src/Assets/imgs/sliderFive.png",
+        "name" : "Client 4",
+        "location" : "London, United Kingdom" 
+    }
+]
